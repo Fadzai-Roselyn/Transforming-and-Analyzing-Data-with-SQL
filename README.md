@@ -8,47 +8,90 @@ To figure out how the data presented can help to answer questions about the ecom
 ## Process
 ### (your step 1)
 i. Creating the ecommerce database
+
+
 ii. Clicking the dropdown arrow on the schema to access empty tables
+
+
 iii. Right click on tables to start creating them, example;
+
+
      CREATE TABLE all_sessions (
+     
   fullVisitorId NUMERIC,
+  
   channelGrouping VARCHAR,
+  
   time_ VARCHAR,
+  
   country VARCHAR,
+  
   city VARCHAR,
+  
   totalTransactionRevenue NUMERIC,
+  
   transactions NUMERIC,
+  
   timeOnSite NUMERIC,
+  
   pageviews INTEGER,
+  
   sessionQualityDim NUMERIC,
+  
   date DATE,
+  
   visitId NUMERIC,
+  
   type VARCHAR,
+  
   productRefundAmount NUMERIC,
+  
   productQuantity NUMERIC,
+  
   productPrice NUMERIC,
+  
   productRevenue NUMERIC,
+  
   productSKU VARCHAR,
+  
   v2ProductName VARCHAR,
+  
   v2ProductCategory VARCHAR,
+  
   productVariant VARCHAR,
+  
   currencyCode VARCHAR,
+  
   itemQuantity INTEGER,
+  
   itemRevenue NUMERIC,
+  
   transactionRevenue NUMERIC,
+  
   transactionId VARCHAR,
+  
   pageTitle VARCHAR,
+  
   searchKeyword VARCHAR,
+  
   pagePathLevel1 VARCHAR,
+  
   eCommerceAction_type NUMERIC,
+  
   eCommerceAction_step NUMERIC,
+  
   eCommerceAction_option VARCHAR
 
 )
+
+
 iv. Loading the data into the created tables by right clicking on table and choosing the import option which leads to selecting the location of the data before clicking OK to confirm
+
 ### (your step 2)
 Answering questions and coming up with my own questions for the data and figurung out if I have to clean data for a particular question
+
 ## Results
+
 (fill in what you discovered this data could tell you and how you used the data to answer those questions)
 I discovered the data could tell me about revenue. This is important as the business can make informed decisions including marketing campaigns and possibly customer loyalty programs based on the revenue. It also informs them about any growth or loss and it can be handled accordingly.
 
