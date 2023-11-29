@@ -1,4 +1,5 @@
-Question 1: Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
+-Question 1: Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
+-
 
 SQL Queries:
 
