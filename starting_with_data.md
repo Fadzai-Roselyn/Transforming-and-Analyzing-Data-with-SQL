@@ -25,6 +25,8 @@ JOIN
 WHERE
     s.sentimentscore < 0.3
 ORDER BY sentimentscore desc;
+
+Answer:
 Monitoring sentiment scores helps identify potential issues that could lead to customer churn. Proactively addressing concerns and improving products based on customer feedback can contribute to higher customer retention rates.
 In summary, analyzing sentiment scores for products is a valuable practice for an ecommerce company, providing actionable insights that can positively impact product development, marketing strategies, customer satisfaction, and overall business performance.
 
@@ -44,10 +46,9 @@ FROM
 ORDER BY
     restockingleadtime DESC
 LIMIT 10;
-Answer: <img width="284" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/1e656593-d24a-48f9-b959-e05e50fd8009">
-
-
+Answer: 
 Keeping tabs and managing the restocking lead time can help the business to have a pulse on their inventory levels. Ultimately the risk of having popular or even average products out of stock is reduced and customer demand for products is met efficiently.
+<img width="284" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/1e656593-d24a-48f9-b959-e05e50fd8009">
 
 Question 3: Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare.
 
