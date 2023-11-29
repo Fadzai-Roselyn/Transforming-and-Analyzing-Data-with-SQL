@@ -78,3 +78,11 @@ Organic search being #1 out of 7 groupings account for the most visits, while pa
 <img width="211" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/5dfac097-a5cf-4c20-a353-73f5fd700e31">
 
 
+
+The ERD;
+
+
+![schema png](https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/b5898b02-c27e-4a5b-acdc-35ba6cf0e0b9)
+
+
+
