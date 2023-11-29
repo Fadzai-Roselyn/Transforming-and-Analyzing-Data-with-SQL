@@ -49,7 +49,7 @@ ORDER BY
 
 
 
-Answer: It is difficult to determine a pattern with regards to city as it has some data unavailable in the demo dataset. A screenshot of the first 5 is below;
+Answer: It is difficult to determine a pattern with regards to city as it has some data unavailable in the demo dataset. A screenshot of the first 5;
 <img width="584" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/47928ec9-8b1b-4bc1-bf1f-c0ed456ebbae">
 
 
@@ -80,7 +80,7 @@ WHERE
     product_rank = 1;
 
 Answer: As there is data missing from city/country, it is difficult to determine a pattern, though we at least know the top selling product in the available regions. That will help the store to ensure they always have stock for the products that are the best movers, and they can find out why the least performing products are not moving better.
-Below is a screenshot of the first 5 results;
+Screenshot of the first 5 results;
 <img width="657" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/89583e21-889d-4e6b-81e4-5faa8a91404f">
 
 
