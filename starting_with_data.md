@@ -35,6 +35,7 @@ Monitoring sentiment scores is crucial for identifying potential issues that mig
 Question 2: Which products have the highest restocking lead time? Give the top 10.
 
 SQL Queries:
+
 SELECT DISTINCT
     name AS product_name,
     restockingleadtime
@@ -44,6 +45,8 @@ ORDER BY
     restockingleadtime DESC
 LIMIT 10;
 Answer: <img width="284" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/1e656593-d24a-48f9-b959-e05e50fd8009">
+
+
 Keeping tabs and managing the restocking lead time can help the business to have a pulse on their inventory levels. Ultimately the risk of having popular or even average products out of stock is reduced and customer demand for products is met efficiently.
 
 Question 3: Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare.
@@ -61,7 +64,9 @@ ORDER BY
 
 
 Answer: 
-<img width="211" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/5dfac097-a5cf-4c20-a353-73f5fd700e31">
 
 Organic search being #1 out of 7 groupings account for the most visits, while paid searches are #4 out of 7 behind direct and referral but ahead of affiliates, display and others. As the leading margin of the first 3 is greater than that of paid searches, the business might want to keep an eye on the KPI to always be sure it is worth paying for paid searches seeing as customers are mostly visiting the site through other means.
+
+<img width="211" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/5dfac097-a5cf-4c20-a353-73f5fd700e31">
+
 
