@@ -88,7 +88,7 @@ iii. Right click on tables to start creating them, example;
 iv. Loading the data into the created tables by right clicking on table and choosing the import option which leads to selecting the location of the data before clicking OK to confirm
 
 ### (your step 2)
-Answering questions and coming up with my own questions for the data and figurung out if I have to clean data for a particular question
+Answering questions from the data set and generating up my own questions from the data. Data cleaning and QA
 
 ## Results
 
@@ -116,4 +116,5 @@ I had an issue with revenue which I thought was null, but I was advised that I j
 
 ## Future Goals
 (what would you do if you had more time?)
-I would have taken more time to understand the data instead of understanding it mostly based of column information. I would have also taken more time to understand the cleaning processes, it is still something I will continue learning to improve upon as it is a very important step.
+I would have taken more time to understand the data instead of understanding it mostly based of column information. This would have allowed me to query the data based on dates/time as this might present insight on buying patterns for particular regions and particular products and the impact of this on revenue.
+I would have also taken more time to understand the cleaning processes, it is still something I will continue learning to improve upon as it is a very important step.
