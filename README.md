@@ -57,10 +57,13 @@ Given the product details, it is possible to analyse which products do well and 
 
 The sentiment scores are an indicator of customer satisfaction or lack thereof, so it is an opprtunity for the business to retain customers by proactively addressing concerns, this goes hand in hand with the data that shows the top selling products, it means other data like restocking lead time can be used to ensure that the stock inventory is up to date with fast moving products and possibly on the look out to avoid stocking products that are not preferred by customers.
 
-There is also a lot of data that shows customer behaviour in terms of how they interact with the ecommerce site. Most of the customers that end up there are from an organic se
+There is also a lot of data that shows customer behaviour in terms of how they interact with the ecommerce site. Most of the customers that end up there are from an organic search and from the data available, they are 57.4% of the visitors, in all, there are 7 ways in which they may find themselves there. The fourth highest way is paid search which amounts for 3.3% of the site visitors, it comes behind direct and referral which are 20% and 17% respectively. It means the business may want todo further analysis to see if the paid searches are worth the cost. Other customer behaviour data include page views and time spent on the site in addition to bounce, which is the percentage of site visitors who arrive but leave before ever progressing onto a second page. All this customer behaviour data can be used to drive marketing campaigns and other business decisions
 
 ## Challenges 
-(discuss challenges you faced in the project)
+I had some challenges that included importing difficulties. Some tables imported well but there were others that needed permission to be read by pgAdmin4 and I ended up copying them to the folder where postgresql is located.
+During table creation, I had named some primary keys and it presented problems during importation, I was then advised to do the key allocation later rather than as an initial step.
+I had an issue with revenue which I thought was null, but I was advised that I just have to work with the 'not null' columns, as they were a big lot, this is an aspect I would still want to work on and understand even after the project submission.
 
 ## Future Goals
 (what would you do if you had more time?)
+I would have taken more time to understand the data instead of understanding it mostly based of column information. I would have also taken more time to understand the cleaning processes, it is still something I will continue learning to improve upon as it is a very important step.
