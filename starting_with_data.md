@@ -52,6 +52,8 @@ Answer:
 Keeping tabs and managing the restocking lead time can help the business to have a pulse on their inventory levels. Ultimately the risk of having popular or even average products out of stock is reduced and customer demand for products is met efficiently.
 <img width="284" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/1e656593-d24a-48f9-b959-e05e50fd8009">
 
+
+
 Question 3: Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare.
 
 SQL Queries: 
