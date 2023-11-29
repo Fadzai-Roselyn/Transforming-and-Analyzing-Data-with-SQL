@@ -17,7 +17,8 @@ FROM
     products
 ORDER BY
     restockingleadtime DESC
-**********************************
+
+
 SELECT
     channelgrouping,
     COUNT(DISTINCT fullvisitorid) AS site_visitors
