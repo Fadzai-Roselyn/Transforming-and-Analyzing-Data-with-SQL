@@ -118,3 +118,8 @@ I had an issue with revenue which I thought was null, but I was advised that I j
 (what would you do if you had more time?)
 I would have taken more time to understand the data instead of understanding it mostly based of column information. This would have allowed me to query the data based on dates/time as this might present insight on buying patterns for particular regions and particular products and the impact of this on revenue.
 I would have also taken more time to understand the cleaning processes, it is still something I will continue learning to improve upon as it is a very important step.
+
+Project presentation;
+
+https://drive.google.com/file/d/1QhxT6ewD9IaMbk9sg-ORRMMiXssKS9d4/view?usp=drive_link
+
