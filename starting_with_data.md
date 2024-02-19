@@ -1,4 +1,4 @@
-Question 1: Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
+## Question 1: Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
 
 
 SQL Queries:
@@ -37,7 +37,7 @@ Monitoring sentiment scores is crucial for identifying potential issues that mig
 <img width="488" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/98492280-8381-4a1d-953d-2cdce28b9e59">
 <img width="485" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/5da42abd-a372-4d25-8e2c-38066d50b2be">
 
-Question 2: Which products have the highest restocking lead time? Give the top 10.
+## Question 2: Which products have the highest restocking lead time? Give the top 10.
 
 SQL Queries:
 
@@ -57,7 +57,7 @@ Keeping tabs and managing the restocking lead time can help the business to have
 
 
 
-Question 3: Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare.
+## Question 3: Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare.
 
 SQL Queries: 
 SELECT
