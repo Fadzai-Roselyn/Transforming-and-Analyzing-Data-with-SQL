@@ -6,7 +6,14 @@ To learn about query strucruring
 To use the data to answer business questions as well as generate my own questions
 
 ## Questions to answer;
-<li> 
+<li>Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
+<li>Which products have the highest restocking lead time? Give the top 10
+<li>Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare
+<li>Which cities and countries have the highest level of transaction revenues on the site?
+<li>What is the average number of products ordered from visitors in each city and country?
+<li>Is there any pattern in the types (product categories) of products ordered from visitors in each city and country?
+<li>What is the top-selling product from each city/country? Can we find any pattern worthy of noting in the products sold?
+<li>Can we summarize the impact of revenue generated from each city/country?
 
 ## Process
 i. Creating the ecommerce database
