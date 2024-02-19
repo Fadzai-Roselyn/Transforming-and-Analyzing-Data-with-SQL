@@ -26,6 +26,8 @@ GROUP BY
     a.city, a.country;
 
 Answer: Screenshot of the first 5
+
+
 <img width="406" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/ef9b0374-f6fb-4d4e-ac3e-2c19aa7114e0">
 
 **Question 3: Is there any pattern in the types (product categories) of products ordered from visitors in each city and country?**
