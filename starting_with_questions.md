@@ -10,6 +10,8 @@ group by country, city
 order by total desc;
 
 Answer:
+
+
 <img width="332" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/a504ad02-c61a-46e4-9dd8-5fe7a99ff0d8">
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
@@ -52,6 +54,8 @@ ORDER BY
 
 
 Answer: It is difficult to determine a pattern with regards to city as it has some data unavailable in the demo dataset. A screenshot of the first 5;
+
+
 <img width="584" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/47928ec9-8b1b-4bc1-bf1f-c0ed456ebbae">
 
 
