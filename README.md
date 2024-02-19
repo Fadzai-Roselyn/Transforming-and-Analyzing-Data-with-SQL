@@ -1,19 +1,13 @@
-# Final-Project-Transforming-and-Analyzing-Data-with-SQL
+# Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
 To get more hands on and more familar with SQL
-To try and figure out how to put across the queries but to also remember to ask for assistance where needed
-To figure out how the data presented can help to answer questions about the ecommerce business
+To learn about query strucruring
+To use the data to answer business questions as well as generate my own questions
 
 ## Process
-### (your step 1)
 i. Creating the ecommerce database
-
-
-ii. Clicking the dropdown arrow on the schema to access empty tables
-
-
-iii. Right click on tables to start creating them, example;
+ii. Creating tables, example;
 
 
      CREATE TABLE all_sessions (
@@ -85,14 +79,12 @@ iii. Right click on tables to start creating them, example;
 )
 
 
-iv. Loading the data into the created tables by right clicking on table and choosing the import option which leads to selecting the location of the data before clicking OK to confirm
+iii. Loading the data into the created tables by right clicking on table and choosing the import option which leads to selecting the location of the data before clicking OK to confirm
 
-### (your step 2)
+### Step 2
 Answering questions from the data set and generating up my own questions from the data. Data cleaning and QA
 
 ## Results
-
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
 I discovered the data could tell me about revenue. This is important as the business can make informed decisions including marketing campaigns and possibly customer loyalty programs based on the revenue. It also informs them about any growth or loss and it can be handled accordingly.
 
 There is also some geographical data which shows how customers in different places behave or contribute to the business.
@@ -111,13 +103,10 @@ The ERD;
 
 ## Challenges 
 I had some challenges that included importing difficulties. Some tables imported well but there were others that needed permission to be read by pgAdmin4 and I ended up copying them to the folder where postgresql is located.
-During table creation, I had named some primary keys and it presented problems during importation, I was then advised to do the key allocation later rather than as an initial step.
-I had an issue with revenue which I thought was null, but I was advised that I just have to work with the 'not null' columns, as they were a big lot, this is an aspect I would still want to work on and understand even after the project submission.
+During table creation, I had named some primary keys and it presented problems during importation, lesson learnt; Proceed with key allocation later rather than as an initial step.
 
 ## Future Goals
-(what would you do if you had more time?)
-I would have taken more time digging in to the data. This would have allowed me to query the data based on dates/time as this might present insight on buying patterns for particular regions and particular products and the impact of this on revenue.
-I would have looked at alternative cleaning and DA processes.
+Look at alternative cleaning and DA processes.
 Project presentation;
 https://drive.google.com/file/d/1QhxT6ewD9IaMbk9sg-ORRMMiXssKS9d4/view?usp=drive_link
 
