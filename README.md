@@ -3,7 +3,7 @@
 ## Project/Goals
 Get hands on and familar with SQL
 
-Learn about query strucruring and data analysis with SQL
+Learn about query structuring and data analysis with SQL
 
 Generate questions from the data and also answer business questions from the data
 
