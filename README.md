@@ -1,9 +1,11 @@
 # Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-To get more hands on and more familar with SQL
-To learn about query strucruring
-To use the data to answer business questions as well as generate my own questions
+Get hands on and familar with SQL
+
+Learn about query strucruring and data analysis with SQL
+
+Generate questions from the data and also answer business questions from the data
 
 ## Questions to answer;
 <li>Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
