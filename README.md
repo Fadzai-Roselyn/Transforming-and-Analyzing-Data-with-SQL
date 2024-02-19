@@ -5,6 +5,9 @@ To get more hands on and more familar with SQL
 To learn about query strucruring
 To use the data to answer business questions as well as generate my own questions
 
+## Questions to answer;
+<li> 
+
 ## Process
 i. Creating the ecommerce database
 ii. Creating tables, example;
