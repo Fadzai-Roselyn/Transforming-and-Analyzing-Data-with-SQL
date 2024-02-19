@@ -101,6 +101,8 @@ ORDER BY total_revenue desc ;
 
 Answer: The results from the query, looking at data that is not null shows that the top 5 revenue generators are cities in the United states.
 The screenshot of the result shows 6 rows where the fifth city/ country is Tel Aviv-Yafo/ Israel. The United States continues to dominate though other countries also made it to the list.
+
+
 <img width="347" alt="image" src="https://github.com/Fadzai-Roselyn/SQL-Project-LHL/assets/146916613/db927766-e88f-431f-8f72-e4646675ecb5">
 
 
