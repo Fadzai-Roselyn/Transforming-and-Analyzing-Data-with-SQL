@@ -13,8 +13,8 @@ The naming should be more accurate to allow for better analysis. There were inco
 
 
 
-QA Process:
-Describe your QA process and include the SQL queries used to execute it.
+## QA Process:
+### Describing QA process and the SQL queries used to execute it.
 
 To ensure I am getting out put that excludes missing data, I used the NOT NULL query;
 For example, with transactionrevenue;
