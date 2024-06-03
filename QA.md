@@ -1,4 +1,4 @@
-What are your risk areas? Identify and describe them.
+### Identifying and describing risk areas.
 
 Data completeness;
 One of the difinitions is as follows; refers to the extent to which a dataset has all the relevant and necessary information for a given purpose. A complete dataset should not have any missing, duplicated, or irrelevant values that could affect the analysis.
