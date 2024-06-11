@@ -7,7 +7,7 @@ Learn about query structuring and data analysis with SQL
 
 Generate questions from the data and answer business questions from the data
 
-## Questions to answer;
+## Questions;
 <li>Find out the products with sentiment score of 0.7 to 1 and those with a sentiment score less than 0.3
 <li>Which products have the highest restocking lead time? Give the top 10
 <li>Based on the various ways in which people visit the ecommerce site, which channel grouping is responsible for the most visits? Show how the other groupings compare
