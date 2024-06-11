@@ -1,7 +1,7 @@
-What issues will you address by cleaning the data?
+
 <li>Ensuring that I am not working with duplicates when I call on some columns
-Conversion of data types when tables are not importing
-Standardization of formats and units to ensure consistency across datasets
+<li>Conversion of data types when tables are not importing
+<li>Standardization of formats and units to ensure consistency across datasets
 
 
 
