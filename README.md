@@ -94,7 +94,7 @@ ii. Creating tables, example;
 iii. Loading the data into the created tables by right clicking on table and choosing the import option which leads to selecting the location of the data before clicking OK to confirm
 
 ### Step 2
-Answering questions from the data set and generating up my own questions from the data. Data cleaning and QA
+Answering questions from the data set and generating my own questions from the data. Data cleaning and QA
 
 ## Results
 I discovered the data could tell me about revenue. This is important as the business can make informed decisions including marketing campaigns and possibly customer loyalty programs based on the revenue. It also informs them about any growth or loss and it can be handled accordingly.
